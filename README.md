@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🖥 Backend software developer
 - 🎓 Master of Engineering at Plovdiv University "Paisii Hilendarski", class of 2022
 - 🐧 Linux enthusiast
+- 🔐 Cyber security enthusiast 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
