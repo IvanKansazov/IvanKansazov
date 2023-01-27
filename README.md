@@ -9,8 +9,8 @@ IvanKansazov/IvanKansazov is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Backend software developer
 - 🎓 Master of Engineering at Plovdiv University "Paisii Hilendarski", class of 2022
+- 🖥 Backend software developer
 - 🐧 Linux enthusiast
 - 🔐 Cyber security enthusiast 
 
